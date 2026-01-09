@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://agkotu.vercel.app/](https://agkotu.vercel.app/)
 
-- 💬 Ask me about **Java, React, or**
+- 💬 Ask me about **Java, React, or PostgeSQL**
 
 - 📫 How to reach me **amogelangkotu@icloud.com**
 
