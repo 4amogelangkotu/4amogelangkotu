@@ -34,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4amogelangkotu&show_icons=true&locale=en" alt="4amogelangkotu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4amogelangkotu&" alt="4amogelangkotu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4amogelangkotu&" alt="streak" /></p>
 
