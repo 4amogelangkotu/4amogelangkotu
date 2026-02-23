@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/giftamogelangg" target="blank"><img src="https://img.shields.io/twitter/follow/giftamogelangg?logo=twitter&style=for-the-badge" alt="giftamogelangg" /></a> </p>
 
-- 🔭 I’m currently working on an [Enterprise Task Manager](https://github.com/4amogelangkotu/enterprise-task-manager)
+- 🔭 I’m currently working on an [EDRMS](https://github.com/4amogelangkotu/EDRMS)
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amogelangkotu@icloud.com**
 
-- ⚡ Fun fact **I love listening to music, like a loooottt.**
+- ⚡ Fun fact **I love listening to and making music as a hobby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
