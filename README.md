@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an **Electronic Documents & Records Management System** (EDRMS)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Angular**
 
 - ☁️ I'm actively pursuing an **AWS Certification**
 
